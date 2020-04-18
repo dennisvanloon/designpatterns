@@ -10,3 +10,8 @@ Define an interface for creating an object, but let subclasses decide which clas
 
 ### Examples
 https://refactoring.guru/design-patterns/factory-method/java/example
+
+## Abstract Factory Pattern
+
+### GoF Definition
+Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
